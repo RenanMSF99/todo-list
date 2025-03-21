@@ -62,6 +62,7 @@ input, select{
     backdrop-filter: blur(50px);
     padding: 1.5rem;
     border-radius: 15px;
+    box-shadow: 0 0 30px rgba(0,0 ,0, .5)
 
 }
 
